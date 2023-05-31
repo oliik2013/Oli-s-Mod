@@ -1,6 +1,6 @@
 # Oli-s-Mod
 
-(Minecraft 1.19.2 forge mod)
+(Minecraft 1.19.2 forge mod, to download click the code button and click "download zip")
 
 Cool new blocks and more!
 
