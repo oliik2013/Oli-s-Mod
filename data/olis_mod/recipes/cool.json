@@ -1,0 +1,42 @@
+{
+  "group": "color",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magenta_concrete"
+    },
+    "1": {
+      "item": "minecraft:black_concrete"
+    },
+    "2": {
+      "item": "minecraft:pink_concrete"
+    },
+    "3": {
+      "item": "minecraft:blue_concrete"
+    },
+    "4": {
+      "item": "minecraft:lime_concrete"
+    },
+    "5": {
+      "item": "minecraft:red_concrete"
+    },
+    "6": {
+      "item": "minecraft:yellow_concrete"
+    },
+    "7": {
+      "item": "minecraft:light_blue_concrete"
+    },
+    "8": {
+      "item": "minecraft:orange_concrete"
+    }
+  },
+  "result": {
+    "item": "olis_mod:art",
+    "count": 1
+  }
+}
