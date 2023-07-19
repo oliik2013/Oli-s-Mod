@@ -1,0 +1,12 @@
+{
+  "tada": {
+    "category": "neutral",
+    "subtitle": "subtitles.tada",
+    "sounds": [
+      {
+        "name": "olis_mod:tada",
+        "stream": false
+      }
+    ]
+  }
+}
